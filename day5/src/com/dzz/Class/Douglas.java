@@ -3,7 +3,7 @@ package com.dzz.Class;
 import com.sun.xml.internal.messaging.saaj.soap.ver1_1.Detail1_1Impl;
 
 import java.sql.SQLOutput;
-
+//hahahaha
 public class Douglas extends Human {
     static {
         System.out.println("douglas静态代码块");
